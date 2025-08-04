@@ -13,11 +13,11 @@ I like to think of myself as a **first principles engineer** who thinks through 
 Yeah, I guess. I've never understood the term too much since, to me, every technologist should be able to stand up their own work.
 
 I do the "full" stack:
-- **Backend**: APIs in any language, any framework, because I understand it fundamentally (HTTP spec, server-client interactions, etc)
-- **Frontend**: UIs using built from the foundation (DOM) outward (React, if you insist)
+- **Backend**: APIs in any language, any framework. I understand it fundamentally (HTTP spec, server-client interactions, etc)
+- **Frontend**: UIs built from the foundation (DOM) outward (React, if you insist)
 - **Database**: Schemas that make sense over time. Facts don't change in five years— businesses do.
 - **DevOps**: CI/CD pipelines that are simple, yet powerful. Because everything should as automated as possible.
-- **AI**: Agentic workflows, chatbots, and all of the new bedazzle. AI-first is the new "mobile-first".
+- **AI**: AI-first is the new "mobile-first". Agentic workflows, chatbots, and all of the new bedazzle.
 
 ## Things I've Built
 
