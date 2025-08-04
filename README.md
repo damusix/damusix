@@ -19,7 +19,7 @@ I do the "full" stack:
 - **DevOps**: CI/CD pipelines that are simple, yet powerful. Because everything should as automated as possible.
 - **AI**: AI-first is the new "mobile-first". Agentic workflows, chatbots, and all of the new bedazzle.
 
-## Things I've Built
+## Public Works
 
 **Libraries that solve real problems in the TS realm:**
 - [logosdx/monorepo](https://github.com/logosdx/monorepo) - Collection of utilities built on necessity and a weariness of repetition
