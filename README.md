@@ -2,7 +2,7 @@
 
 I'm a "big picture" thinker that likes to go into the minutiae. I focus on building things that work well, are consistent, and can stay afloat throughout the years. I love history, not only because it's interesting, but because it's the lens through which to understand the present day. For example: I've worked on accounting systems that were built on MongoDB over 20 microservices—a nightmare to deal with. If they would've known that the relational model was created to solve the very problem they faced—that building intelligent accounting information systems is hard—they would've opted for the tool designed to solve that problem (not Mongo).
 
-I also very much like philosophy. While everyone else is chasing the latest JavaScript trends, I'm over here applying 2,400-year-old principles of logic to modern software problems. Turns out Aristotle knew a thing or two about avoiding bugs.
+I also very much like philosophy. While everyone else is chasing the latest JavaScript trends, I'm over here (applying 2,400-year-old principles of logic)[https://alonso.network/aristotelian-logic-as-the-foundation-of-code/] to modern software problems. I very-much think Aristotle would've been a 20x programmer.
 
 ## What I Actually Do
 
