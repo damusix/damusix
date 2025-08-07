@@ -33,10 +33,10 @@ I do the "full" stack:
 
 ## Skills That Pay The Bills
 
-**Languages & Frameworks:** TypeScript/JavaScript, Python, Bash, Elixir, Ruby, PHP
-**Databases:** TSQL (MSSQL), open source SQL (PG, Mysql, SQLite, DuckDB, etc), MongoDB, Redis
-**Infrastructure:** Terraform/Pulumi, Docker/Swarm, AWS, Practical Linux Sysadmin
-**AI/ML:** Agentic wWrkflows, Chatbots, Instructor, HuggingFace, Foundation Model APIs, etc
+* **Languages & Frameworks:** TypeScript/JavaScript, Python, Bash, Elixir, Ruby, PHP
+* **Databases:** TSQL (MSSQL), open source SQL (PG, Mysql, SQLite, DuckDB, etc), MongoDB, Redis
+* **Infrastructure:** Terraform/Pulumi, Docker/Swarm, AWS, Practical Linux Sysadmin
+* **AI/ML:** Agentic wWrkflows, Chatbots, Instructor, HuggingFace, Foundation Model APIs, etc
 
 ## The Value I Bring
 
