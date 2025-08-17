@@ -1,6 +1,6 @@
 # Hello, World!
 
-I'm a "big picture" thinker that likes to go into the minutiae. I focus on building things that work well, are consistent, and can stay afloat throughout the years. I love history, not only because it's interesting, but because it's the lens through which to understand the present day. For example: I've worked on accounting systems that were built on MongoDB over 20 microservices—a nightmare to deal with. If they would've known that the relational model was created to solve the very problem they faced—that building intelligent accounting information systems is hard—they would've opted for the tool designed to solve that problem (not Mongo).
+I'm a "big picture" thinker that likes to go into the minutiae. I focus on building things that work well, are consistent, and can stay afloat throughout the years. I love history, not only because it's interesting, but because it's the lens through which to understand the present day.
 
 I also very much like philosophy. While everyone else is chasing the latest JavaScript trends, I'm over here [applying 2,400-year-old principles of logic](https://alonso.network/aristotelian-logic-as-the-foundation-of-code/) to modern software problems. I very-much think Aristotle would've been a 20x programmer.
 
@@ -16,13 +16,13 @@ I do the "full" stack:
 - **Backend**: APIs in any language, any framework. I understand it fundamentally (HTTP spec, server-client interactions, etc)
 - **Frontend**: UIs built from the foundation (DOM) outward (React, if you insist)
 - **Database**: Schemas that make sense over time. Facts don't change in five years— businesses do.
-- **DevOps**: CI/CD pipelines that are simple, yet powerful. Because everything should as automated as possible.
+- **DevOps**: CI/CD pipelines that are simple, yet powerful. Grindy work should be automated—it provides little value not to.
 - **AI**: AI-first is the new "mobile-first". Agentic workflows, chatbots, and all of the new bedazzle.
 
 ## Public Works
 
 **Libraries that solve real problems in the TS realm:**
-- [logosdx/monorepo](https://github.com/logosdx/monorepo) - Collection of utilities built on necessity and a weariness of repetition
+- [logosdx/monorepo](https://github.com/logosdx/monorepo) - Collection of utilities built on necessity and a weariness of repetition. I use this to build cross-platform apps, ETLs, and resiliency.
 
 **Fun stuff:**
 - [BJJ Timer](https://bjj-timer.pages.dev/) - Because even martial arts needs proper timing
@@ -40,4 +40,4 @@ I do the "full" stack:
 
 ## The Value I Bring
 
-I don't just write code—I solve business problems with technology that scales. I've seen enough "revolutionary" technologies come and go to know that fundamentals matter more than frameworks. REST > GraphQL. SQL > NoSQL. Boring > bleeding-edge. You make sure you have fallbacks. You keep it simple. Hard earned lessons.
+I don't just write code—I solve business problems with technology that scales. I've seen enough "revolutionary" technologies come and go to know that fundamentals matter more than frameworks. REST > GraphQL. SQL > NoSQL. Stable > Bleeding-edge. You make sure you have fallbacks. You keep it simple. Hard earned lessons.
