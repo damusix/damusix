@@ -25,7 +25,8 @@ I do the "full" stack:
 - [logosdx/monorepo](https://github.com/logosdx/monorepo) - Collection of utilities built on necessity and a weariness of repetition. I use this to build cross-platform apps, ETLs, and resiliency.
 
 **Fun stuff:**
-- [BJJ Timer](https://bjj-timer.pages.dev/) - Because even martial arts needs proper timing
+- [BJJ Timer](https://bjj-timer.pages.dev/) - Martial arts needs proper timing
+- [CV Generator](https://github.com/damusix/cv.alonso.network) - Since I'm too lazy to use Google Docs / MS Word
 
 **Open source contributions:**
 - [hapi.dev](https://hapi.dev) - Stable server framework that doesn't change every other month.
@@ -37,7 +38,3 @@ I do the "full" stack:
 * **Databases:** TSQL (MSSQL), open source SQL (PG, Mysql, SQLite, DuckDB, etc), MongoDB, Redis
 * **Infrastructure:** Terraform/Pulumi, Docker/Swarm, AWS, Practical Linux Sysadmin
 * **AI/ML:** Agentic Workflows, Chatbots, Instructor, HuggingFace, Foundation Model APIs, etc
-
-## The Value I Bring
-
-I don't just write code—I solve business problems with technology that scales. I've seen enough "revolutionary" technologies come and go to know that fundamentals matter more than frameworks. REST > GraphQL. SQL > NoSQL. Stable > Bleeding-edge. You make sure you have fallbacks. You keep it simple. Hard earned lessons.
