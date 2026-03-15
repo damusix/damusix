@@ -1,40 +1,25 @@
-# Hello, World!
+# Danilo Alonso
 
-I'm a "big picture" thinker that likes to go into the minutiae. I focus on building things that work well, are consistent, and can stay afloat throughout the years. I love history, not only because it's interesting, but because it's the lens through which to understand the present day.
+I've been building software for over 15 years, and the thing that's stuck with me the most is that the tools change but the problems don't. I started out doing the typical full-stack grind — PHP, Rails, jQuery, the whole era — and over time I moved toward understanding the *why* behind things instead of just the *how*. That shift made me a better engineer than any framework ever did. These days I think a lot about architecture, boundaries, and the fundamentals that don't expire. I also think Aristotle would've been a mass programmer, but that's a [separate conversation](https://alonso.network/aristotelian-logic-as-the-foundation-of-code/).
 
-I also very much like philosophy. While everyone else is chasing the latest JavaScript trends, I'm over here [applying 2,400-year-old principles of logic](https://alonso.network/aristotelian-logic-as-the-foundation-of-code/) to modern software problems. I very-much think Aristotle would've been a 20x programmer.
+Check out my company at [southpointe.tech](https://southpointe.tech) and my blog at [alonso.network](https://alonso.network).
 
-## What I Actually Do
+## Open Source
 
-I like to think of myself as a **first principles engineer** who thinks through problems from the ground up. I validate inputs before processing them, name variables for what they actually contain, and write code that's maintainable five years from now.
+[**logosdx/monorepo**](https://github.com/logosdx/monorepo) — TS utilities I got tired of rewriting. Resiliency, observability, flow control, queues. I use this in everything — ETLs, APIs, frontends. → [logosdx.dev](https://logosdx.dev)
 
-> "Full stack developer" ??
+[**noormdev/noorm**](https://github.com/noormdev/noorm) — Database manager TUI for people who actually like SQL. Postgres, MSSQL, MySQL, SQLite. Ships with a TS SDK. → [noorm.dev](https://noorm.dev)
 
-Yeah, I guess. I've never understood the term too much since, to me, every technologist should be able to stand up their own work.
+[**ai-tools**](https://github.com/damusix/ai-tools) — Claude Code plugins. A memory system with proper namespace isolation and a permissions bypass hook written in Go that fixes the `&&` chained command problem.
 
-I do the "full" stack:
-- **Backend**: APIs in any language, any framework. I understand it fundamentally (HTTP spec, server-client interactions, etc)
-- **Frontend**: UIs built from the foundation (DOM) outward (React, if you insist)
-- **Database**: Schemas that make sense over time. Facts don't change in five years— businesses do.
-- **DevOps**: CI/CD pipelines that are simple, yet powerful. Grindy work should be automated—it provides little value not to.
-- **AI**: AI-first is the new "mobile-first". Agentic workflows, chatbots, and all of the new bedazzle.
+[**skills**](https://github.com/damusix/skills) — Curated skills for Claude Code, Cursor, OpenCode, etc. HTMX, and more coming.
 
-## Public Works
+[**hapi.dev**](https://hapi.dev) / [**hapipal.com**](https://hapipal.com) — Long-time contributor to the Hapi ecosystem. A server framework that doesn't change every six months.
 
-**Libraries that solve real problems in the TS realm:**
-- [logosdx/monorepo](https://github.com/logosdx/monorepo) - Collection of utilities built on necessity and a weariness of repetition. I use this to build cross-platform apps, ETLs, and resiliency.
+[**saga-slice**](https://github.com/saga-slice/saga-slice) — Redux + sagas in one config. From the era when that was unavoidable.
 
-**Fun stuff:**
-- [BJJ Timer](https://bjj-timer.pages.dev/) - Martial arts needs proper timing
-- [CV Generator](https://github.com/damusix/cv.alonso.network) - Since I'm too lazy to use Google Docs / MS Word
+## If I Had It My Way
 
-**Open source contributions:**
-- [hapi.dev](https://hapi.dev) - Stable server framework that doesn't change every other month.
-- [hapipal.com](https://hapipal.com) - Hapi ecosystem tools
+TypeScript everywhere — server, client, infrastructure (Pulumi). MSSQL because its SQL dialect is genuinely better. Redis for caching. A fat VPS over serverless complexity any day. HapiJS on the backend because it's stable and stays out of my way. Server-side rendering by default, React only when I actually need it.
 
-## Skills That Pay The Bills
-
-* **Languages & Frameworks:** TypeScript/JavaScript, Python, Bash, Elixir, Ruby, PHP
-* **Databases:** TSQL (MSSQL), open source SQL (PG, Mysql, SQLite, DuckDB, etc), MongoDB, Redis
-* **Infrastructure:** Terraform/Pulumi, Docker/Swarm, AWS, Practical Linux Sysadmin
-* **AI/ML:** Agentic Workflows, Chatbots, Instructor, HuggingFace, Foundation Model APIs, etc
+That said, I'm not religious about it. I've done a lot of Python in the last year, I'm getting into Go, I've dabbled in Rust, and I've shipped plenty of React and React Native. The preferences above are what I reach for when the choice is mine — but I'm comfortable picking up whatever the problem calls for.
