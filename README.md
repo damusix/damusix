@@ -10,13 +10,21 @@ Check out my company at [southpointe.tech](https://southpointe.tech) and my blog
 
 [**noormdev/noorm**](https://github.com/noormdev/noorm) — Database manager TUI for people who actually like SQL. Postgres, MSSQL, MySQL, SQLite. Ships with a TS SDK. → [noorm.dev](https://noorm.dev)
 
-[**ai-tools**](https://github.com/damusix/ai-tools) — Claude Code plugins. A memory system with proper namespace isolation and a permissions bypass hook written in Go that fixes the `&&` chained command problem.
-
-[**skills**](https://github.com/damusix/skills) — Curated skills for Claude Code, Cursor, OpenCode, etc. HTMX, and more coming.
-
 [**hapi.dev**](https://hapi.dev) / [**hapipal.com**](https://hapipal.com) — Long-time contributor to the Hapi ecosystem. A server framework that doesn't change every six months.
 
 [**saga-slice**](https://github.com/saga-slice/saga-slice) — Redux + sagas in one config. From the era when that was unavoidable.
+
+## For the Vibes
+
+[**ai-tools**](https://github.com/damusix/ai-tools) — Claude Code plugins. A memory system with proper namespace isolation and a permissions bypass hook written in Go that fixes the `&&` chained command problem.
+
+[**skills**](https://github.com/damusix/skills) — Curated skills for Claude Code, Cursor, OpenCode, etc. HTMX, and more coming.
+                                                                                                                               
+[**ghost-mcp**](https://github.com/damusix/ghost-mcp) — MCP server for Ghost CMS. Manage content, members, newsletters, and    
+more via LLMs.                                                                                                                 
+                                                                                                                               
+[**buffer-mcp**](https://github.com/damusix/buffer-mcp) — MCP server for the Buffer social media API. Manage posts, channels,  
+organizations, and ideas through any MCP-compatible client.  
 
 ## If I Had It My Way
 
