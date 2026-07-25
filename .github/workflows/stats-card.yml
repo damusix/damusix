@@ -1,0 +1,52 @@
+name: Stats card
+
+on:
+  schedule:
+    # 06:00 UTC daily — after most of a US-evening commit session has landed.
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate-stats-card.mjs
+      - .github/workflows/stats-card.yml
+
+# Serialize runs so a manual dispatch can't race the nightly one into a
+# conflicting commit.
+concurrency:
+  group: stats-card
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generate SVGs
+        env:
+          # STATS_TOKEN is only needed to count private contributions; the
+          # default token covers everything public.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-stats-card.mjs
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- assets; then
+            echo "Stats unchanged, nothing to commit."
+            exit 0
+          fi
+          # Author as the bot on purpose: a commit authored by Danilo would
+          # count toward the very contribution total this card reports.
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets
+          git commit -m 'chore: refresh stats card'
+          git push

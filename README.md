@@ -58,3 +58,13 @@ Flagships:
 TypeScript everywhere: server, client, infrastructure (Pulumi). MSSQL because I can give better data guarantees with it. Redis for caching. A fat VPS over serverless complexity any day. HapiJS on the backend because it's stable and stays out of my way. Server-side rendering by default, React only when I need it.
 
 I'm not religious about it. I've written a lot of Python this past year, I'm getting into Go, I've dabbled in Rust, and I've shipped plenty of React and React Native. The list above is what I reach for when the choice is mine. When it isn't, I pick up whatever the problem calls for.
+
+## By the Numbers
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+    <img alt="Danilo's GitHub stats" src="assets/stats-light.svg">
+  </picture>
+</p>
