@@ -16,8 +16,6 @@
 
 I've been building software for over 15 years. I started in the full-stack grind (PHP, Rails, jQuery, that whole era) and over time moved toward the *why* behind things instead of the *how*. That shift made me a better engineer than any framework ever did. These days I think about architecture, boundaries, and the fundamentals that don't expire.
 
-I also think Aristotle would've been a master programmer, but that's a [separate conversation](https://alonso.network/aristotelian-logic-as-the-foundation-of-code/).
-
 ## Tech I reach for
 
 <p>
@@ -50,12 +48,6 @@ Flagships:
 - **[skills](https://github.com/damusix/skills):** AI skills that pay the bills. Deep, well-curated coverage for the common (MSSQL, Postgres, hapi) and the uncommon (HTMX, Hurl, CLIs). Works with Claude Code, Cursor, OpenCode, and friends.
 - **[ghost-mcp](https://github.com/damusix/ghost-mcp):** MCP server for Ghost CMS. Manage content, members, and newsletters through an LLM.
 - **[buffer-mcp](https://github.com/damusix/buffer-mcp):** MCP server for the Buffer social API. Posts, channels, organizations, and ideas from any MCP-compatible client.
-
-## If I Had It My Way
-
-TypeScript everywhere: server, client, infrastructure (Pulumi). MSSQL because I can give better data guarantees with it. Redis for caching. A fat VPS over serverless complexity any day. HapiJS on the backend because it's stable and stays out of my way. Server-side rendering by default, React only when I need it.
-
-I'm not religious about it. I've written a lot of Python this past year, I'm getting into Go, I've dabbled in Rust, and I've shipped plenty of React and React Native. The list above is what I reach for when the choice is mine. When it isn't, I pick up whatever the problem calls for.
 
 ## By the Numbers
 
