@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://alonso.network"><img alt="Blog" src="https://img.shields.io/badge/Blog-alonso.network-212121?style=flat-square&logo=ghost&logoColor=white"></a>
   <a href="https://southpointe.tech"><img alt="South Pointe Tech" src="https://img.shields.io/badge/South_Pointe_Tech-southpointe.tech-1A73E8?style=flat-square&logo=googlechrome&logoColor=white"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=damusix&style=flat-square&color=212121&label=Profile+Views">
 </p>
 
 ---
@@ -40,12 +39,6 @@ I also think Aristotle would've been a master programmer, but that's a [separate
 
 Flagships:
 
-<p align="center">
-  <a href="https://github.com/damusix/atomic-claude"><img alt="damusix/atomic-claude" src="https://github-readme-stats.vercel.app/api/pin/?username=damusix&repo=atomic-claude&theme=tokyonight&hide_border=true"></a>
-  <a href="https://github.com/noormdev/ignatius"><img alt="noormdev/ignatius" src="https://github-readme-stats.vercel.app/api/pin/?username=noormdev&repo=ignatius&theme=tokyonight&hide_border=true"></a>
-  <a href="https://github.com/noormdev/noorm"><img alt="noormdev/noorm" src="https://github-readme-stats.vercel.app/api/pin/?username=noormdev&repo=noorm&theme=tokyonight&hide_border=true"></a>
-</p>
-
 - **[atomic-claude](https://github.com/damusix/atomic-claude):** My Claude Code workflow, turned into a system. TDD loops, project signals, structured commits, spec-driven subagents. Fewer tokens, faster decisions. · [atomic.alonso.network](https://atomic.alonso.network)
 - **[noormdev/noorm](https://github.com/noormdev/noorm):** A database manager TUI for people who actually like SQL. Postgres, MSSQL, MySQL, SQLite, with a TypeScript SDK in the box. · [noorm.dev](https://noorm.dev)
 - **[noormdev/ignatius](https://github.com/noormdev/ignatius):** Data modeling as code. Author entities, data flow diagrams, and models as files, then verify them with the `ignatius` CLI.
@@ -65,14 +58,3 @@ Flagships:
 TypeScript everywhere: server, client, infrastructure (Pulumi). MSSQL because I can give better data guarantees with it. Redis for caching. A fat VPS over serverless complexity any day. HapiJS on the backend because it's stable and stays out of my way. Server-side rendering by default, React only when I need it.
 
 I'm not religious about it. I've written a lot of Python this past year, I'm getting into Go, I've dabbled in Rust, and I've shipped plenty of React and React Native. The list above is what I reach for when the choice is mine. When it isn't, I pick up whatever the problem calls for.
-
-## By the Numbers
-
-<p align="center">
-  <img alt="Danilo's GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=damusix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
-  <img alt="Danilo's GitHub streak" height="165" src="https://streak-stats.demolab.com/?user=damusix&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damusix&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
-</p>
