@@ -39,16 +39,14 @@ I also think Aristotle would've been a master programmer, but that's a [separate
 
 Flagships:
 
-- **[atomic-claude](https://github.com/damusix/atomic-claude):** My Claude Code workflow, turned into a system. TDD loops, project signals, structured commits, spec-driven subagents. Fewer tokens, faster decisions. · [atomic.alonso.network](https://atomic.alonso.network)
 - **[noormdev/noorm](https://github.com/noormdev/noorm):** A database manager TUI for people who actually like SQL. Postgres, MSSQL, MySQL, SQLite, with a TypeScript SDK in the box. · [noorm.dev](https://noorm.dev)
 - **[noormdev/ignatius](https://github.com/noormdev/ignatius):** Data modeling as code. Author entities, data flow diagrams, and models as files, then verify them with the `ignatius` CLI.
 - **[hapi](https://hapi.dev) / [hapipal](https://hapipal.com):** Member of the hapi Technical Steering Committee (TSC). A server framework that doesn't change every six months.
 - **[logosdx/monorepo](https://github.com/logosdx/monorepo):** TypeScript utilities I got tired of rewriting. Resiliency, observability, flow control, queues. I use it in everything, from ETLs to APIs to frontends. · [logosdx.dev](https://logosdx.dev)
-- **[saga-slice](https://github.com/saga-slice/saga-slice):** Redux and sagas in one config, from the era when that was unavoidable.
 
 ## For the Vibes
 
-- **[ai-tools](https://github.com/damusix/ai-tools):** Claude Code plugins. A memory system with proper namespace isolation, plus a permissions-bypass hook written in Go that fixes the `&&` chained-command problem.
+- **[atomic-claude](https://github.com/damusix/atomic-claude):** My Claude Code workflow, turned into a system. TDD loops, project signals, structured commits, spec-driven subagents. Fewer tokens, faster decisions. · [atomic.alonso.network](https://atomic.alonso.network)
 - **[skills](https://github.com/damusix/skills):** AI skills that pay the bills. Deep, well-curated coverage for the common (MSSQL, Postgres, hapi) and the uncommon (HTMX, Hurl, CLIs). Works with Claude Code, Cursor, OpenCode, and friends.
 - **[ghost-mcp](https://github.com/damusix/ghost-mcp):** MCP server for Ghost CMS. Manage content, members, and newsletters through an LLM.
 - **[buffer-mcp](https://github.com/damusix/buffer-mcp):** MCP server for the Buffer social API. Posts, channels, organizations, and ideas from any MCP-compatible client.
